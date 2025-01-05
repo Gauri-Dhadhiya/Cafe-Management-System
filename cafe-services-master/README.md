@@ -39,7 +39,7 @@ This repository contains the Spring Boot services for a Cafe Management System. 
 ## Links 
 
 - **API Docs Link:** https://cafe-services.onrender.com/swagger-ui/index.html
-- **Note:** This API requires creds to Access so use the following creds ----> userName: suryafeb0802@gmail.com, password : Surya@123
+- **Note:** This API requires creds to Access so use the following creds ----> userName: gdhadhiya@gmail.com, password : Gauri@123
   
 ## Getting Started
 
